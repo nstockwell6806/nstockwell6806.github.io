@@ -9,7 +9,9 @@
    
     ========================================================  */
 
-
+window.onload = popupDisclaimer() {
+alert("This is not a real website, it was created for a French class project");
+}
 (function ($) {
     "use strict";
     var mainApp = {
