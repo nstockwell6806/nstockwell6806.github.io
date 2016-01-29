@@ -8,10 +8,6 @@
     IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
    
     ========================================================  */
-
-window.onload = popupDisclaimer() {
-alert("This is not a real website, it was created for a French class project");
-}
 (function ($) {
     "use strict";
     var mainApp = {
